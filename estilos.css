@@ -2,3 +2,17 @@ body{
   font-family: "Helvetica", "Arial", sans-serif;
   background-color: #E6EBF1;
 }
+
+ul{
+  padding:0;
+}
+
+ul > li{
+  color: black;
+  background-color: pink;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 5px;
+}
