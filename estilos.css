@@ -27,7 +27,7 @@ ul > li{
 	display: inline-block;
 	float: center;
 	padding-right: 2rem;
-	font-size: 1rem;
+	font-size: 9px;
 	color: #4A4A4A;
   text-transform: uppercase;
 	letter-spacing: 3px;
