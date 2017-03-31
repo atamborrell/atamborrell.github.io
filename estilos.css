@@ -43,6 +43,10 @@ body{
 	margin-bottom: 0;
 }
 
+.section .logo img{
+	height: 45px;
+}
+
 
 ul{
   padding:0;
