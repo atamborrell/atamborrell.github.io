@@ -1,6 +1,6 @@
 body{
   font-family: 'Nunito Sans', sans-serif;
-  background-color: #E6EBF1;
+  background-color: #e7f0f0;
 }
 
 <!--Skeleton-->
@@ -85,7 +85,7 @@ ul > li{
 
 
 .menu a:hover{
-	color: #E0B4AC;
+	color: #ff8d98;
 }
 
 h1{
