@@ -44,7 +44,7 @@ body{
 }
 
 .section .logo img{
-	height: 45px;
+	height: 90px;
 }
 
 
@@ -73,10 +73,11 @@ ul > li{
 	display: inline-block;
 	float: center;
 	padding-right: 1rem;
-	font-size: 9px;
 	color: #4A4A4A;
   text-transform: uppercase;
 	letter-spacing: 3px;
+  font-size: 12px;
+  padding-top: 2rem;
 }
 
 
