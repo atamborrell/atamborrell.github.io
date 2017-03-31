@@ -83,3 +83,11 @@ ul > li{
 .menu a:hover{
 	color: #E0B4AC;
 }
+
+h1{
+  text-transform: uppercase;
+  font-family: 'Nunito Sans', sans-serif;
+  letter-spacing: 3px;
+  font-weight: 300;
+
+}
