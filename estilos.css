@@ -87,4 +87,12 @@ h2{
   font-weight: 600;
   text-align: center;
   font-size: 18px;
+  color: #707070;
+
+}
+
+.line {
+    border-bottom: solid 3px #444444;
+    width: 5%;
+    margin: auto;
 }
