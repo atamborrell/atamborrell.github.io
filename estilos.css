@@ -85,7 +85,11 @@ ul > li{
 
 
 .menu a:hover{
-	color: #ff8d98;
+	color: #fff;
+}
+
+.pink{
+  background: #ff8d98;
 }
 
 h1{
