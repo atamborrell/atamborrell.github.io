@@ -8,31 +8,26 @@
         <link rel="stylesheet" href="font-awesome.min.css">
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800" rel="stylesheet">
 
-        <script>
-        		(function ($) {
-            "use strict";
-
-            var menuPosition = function () {
-                var nav = $("#nav"),
-                    height = nav.height(),
-                    windowHeight = $(window).height();
-
-                if ($(window).scrollTop() > (windowHeight - height)) {
-                    nav.addClass('sticky');
-                } else {
-                    nav.removeClass('sticky');
-                }
-            };
-
-            menuPosition();
-            $(document).scroll(menuPosition);
-        }(jQuery));
-        	</script>
 
     </head>
     <body>
 
-  <div class="section">
+      <div class="section pink fixed">
+    		<div class="container pink">
+            <nav>
+              <ul class="menu" style="text-align:center;">
+                <li><a href="#sobremi">Sobre Mi</a></li>
+                <li><a href="#reconocimientos">Reconocimientos</a></li>
+                <li><a href="#habilidades">Habilidades</a></li>
+                <li><a href="#capacidades">Capacidades</a></li>
+                <li><a href="#softwares">Softwares</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+
+  <div class="section after-fixed">
 		<div class="container">
 			<div class="row">
 				<div class="twelve columns" align="center">
@@ -44,20 +39,6 @@
 		</div>
 	</div>
 
-  <div class="section pink" id="nav">
-		<div class="container pink">
-        <nav>
-          <ul class="menu" style="text-align:center;">
-            <li><a href="#sobremi">Sobre Mi</a></li>
-            <li><a href="#reconocimientos">Reconocimientos</a></li>
-            <li><a href="#habilidades">Habilidades</a></li>
-            <li><a href="#capacidades">Capacidades</a></li>
-            <li><a href="#softwares">Softwares</a></li>
-            <li><a href="#contacto">Contacto</a></li>
-          </ul>
-        </nav>
-      </div>
-    </div>
 
     <div class="section bg">
 		<div class="container">

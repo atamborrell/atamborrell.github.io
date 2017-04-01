@@ -39,6 +39,10 @@ body{
   	width: 100%;
 }
 
+.section.after-fixed{
+	margin-top: 5rem;
+}
+
 
 ul{
   padding:0;
