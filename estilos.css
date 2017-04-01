@@ -31,13 +31,20 @@ body{
 	padding: 2rem 0;
 }
 
-
+.fixed{
+  position: fixed;
+  	z-index: 5000;
+  	top: 0;
+  	left: 0;
+  	width: 100%;
+}
 
 
 ul{
   padding:0;
   font-family: 'Nunito Sans', sans-serif;
   margin-bottom: 0rem;
+  list-style: none;
 }
 
 ul > li{
