@@ -40,7 +40,7 @@ body{
 }
 
 .section.after-fixed{
-	margin-top: 3%;
+	margin-top: 23%;
 }
 
 
@@ -147,3 +147,31 @@ a:hover{
     z-index: 9999;
     background: white;
 }
+
+/* Larger than mobile */
+@media (min-width: 400px) {
+
+}
+
+/* Larger than phablet (also point when grid becomes active) */
+@media (min-width: 550px) {
+
+}
+
+/* Larger than tablet */
+@media (min-width: 750px) {
+  .section.after-fixed{
+  	margin-top: 3%;
+  }
+
+}
+
+  /* Larger than desktop */
+@media (min-width: 1000px) {
+	.container{
+		max-width: 1200px;
+	}
+}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {}
