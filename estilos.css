@@ -52,9 +52,9 @@ ul{
 }
 
 ul > li{
-  color: black;
+  color: #707070;
   padding-top: 5px;
-  padding-bottom: 5px;
+  padding-bottom: 0px;
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 5px;
