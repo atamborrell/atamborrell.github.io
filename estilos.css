@@ -95,6 +95,20 @@ h2{
   margin-bottom: 0rem;
 }
 
+p {
+    margin-top: 0;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.sobremi p {
+    margin-top: 0;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
 .line {
     border-bottom: solid 3px #707070;
     width: 5%;
