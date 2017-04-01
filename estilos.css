@@ -78,13 +78,3 @@ h1{
   text-align: center;
   font-size: 16px;
 }
-
-.img-circle {
-    border-radius: 50%;
-}
-
-img.img-circle.team-img {
-    height: 50px;
-    border: 1px solid #ff8d98;
-    transition: all 0.5s;
-}
