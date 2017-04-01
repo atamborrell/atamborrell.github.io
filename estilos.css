@@ -122,3 +122,12 @@ p {
     margin: auto;
     margin-bottom: 4rem;
 }
+
+#nav.sticky {
+    position: fixed;
+    top: 0px;
+    bottom: auto;
+    width: 100%;
+    z-index: 9999;
+    background: white;
+}
